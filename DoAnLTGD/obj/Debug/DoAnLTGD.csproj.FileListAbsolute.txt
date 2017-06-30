@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\bin\Debug\DoAnLTGD.exe
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\bin\Debug\DoAnLTGD.pdb
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.Properties.Resources.resources
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.exe.licenses
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.exe
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.pdb
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.frmTuyenSinh.resources
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.frmQuanLy.resources
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.frmDoiTuongcs.resources
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.frmToHopMon.resources
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.frmNganh.resources
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.frmMon.resources
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.frmTruongcs.resources
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.frmDangNhap.resources
+\\Mac\Home\Desktop\DoAnLTGD\DoAnLTGD\obj\Debug\DoAnLTGD.frmDangKy.resources
